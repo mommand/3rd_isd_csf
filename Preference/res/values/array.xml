@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="listOptions">
+       <item>English</item>
+       <item>Pushto</item>
+       <item>Dari</item>
+       <item>Others</item>
+   </string-array>
+   <string-array name="listvalues">
+       <item>English Language</item>
+       <item>Pashto language</item>
+       <item>Dari Langauge</item>
+       <item>Other Languages</item>
+       
+   </string-array>
+    
+</resources>
