@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<records>
+<employee>
+<name>Walid khan</name>
+<salary>50000</salary>
+</employee>
+<employee>
+<name>Ahmad</name>
+<salary>60000</salary>
+</employee>
+<employee>
+<name>Jan Malik</name>
+<salary>70000</salary>
+</employee>
+</records>
